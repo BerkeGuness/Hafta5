@@ -1,0 +1,8 @@
+Dersimizin 5. haftasında, Python'da nesne yönelimli programlamanın (OOP) temellerini ele aldık. Sınıflar, metotlar ve OOP’nin temel bileşenlerini öğrenerek, bu yapıları içeren küçük çaplı bir uygulama geliştirdik.
+
+
+
+
+
+
+
