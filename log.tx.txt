@@ -1,0 +1,8 @@
+commit 00f7ba9d2304b1728a191cebb1fccdae088f8bc4 (HEAD -> master, origin/master, origin/HEAD)
+Author: BerkeGunes <berkegunes4@gmail.com>
+Date:   Sat Jun 14 20:59:35 2025 +0300
+
+    oku log ekledim
+
+commit d7246c07e6a72bb8f82b46990f79ff67c8df9666
+Author: BerkeGunes <berkegunes4@gmail.com>
